@@ -1,0 +1,33 @@
+.ocr {
+    text-align: center;
+    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* margin: auto; */
+  }
+   
+  .file-selector {
+    text-align: center;
+    padding: 10px;
+  }
+   
+  .button {
+    background-color: #282c34;
+    margin: 20px;
+    color: white;
+  }
+   
+  .text-box {
+    background: #fff;
+    color: #333;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .editable_field{
+    width: 500px;
+    border: 1px solid black;
+    height: 100px;
+    /* text-align: center; */
+    margin: auto;
+  }
